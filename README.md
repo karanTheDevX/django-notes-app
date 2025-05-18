@@ -1,5 +1,5 @@
 # Simple Notes App 
-Hello Folks. simple notes app built with React and Django.
+Hello Folks.I am Karan S. This is my simple notes app built with React and Django.
 
 ## Requirements
 1. Python 3.9
